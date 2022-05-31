@@ -1,4 +1,4 @@
-<h2>👋🏻 Olá, me chamo <b>Miguel</b> e sou um Desenvolvedor Mobile de Android 📱</h2>
+<h2>👋🏻 Olá, me chamo <b>Miguel</b> e sou Desenvolvedor Mobile de Android 📱</h2>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MiralhaProgrammer&color=8b0000" alt="Profile views" /> </p>
 <div>
