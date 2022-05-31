@@ -4,7 +4,7 @@
 <div>
 <img title="Github Yearly commits" alt="Github Yearly" align="right" src="https://badges.pufler.dev/commits/yearly/MiralhaProgrammer?style=flat&logoColor=957DAD&color=orange&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="right" src="https://badges.pufler.dev/commits/monthly/MiralhaProgrammer?style=flat&color=957DAD" />
-<img title="Repos" alt="Repos" align="right" src="https://badges.pufler.dev/repos/MiralhaProgrammer?style=flat&color=orange" />
+<img title="Repos" alt="Repos" align="right" src="https://badges.pufler.dev/repos/GabrielGuedess?style=flat&color=orange" />
 </div>
 
 ##
