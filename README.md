@@ -1,5 +1,12 @@
 <h2>👋🏻 Olá, me chamo <b>Miguel</b> e sou Desenvolvedor Mobile de Android 📱</h2>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MiralhaProgrammer&color=8b0000" alt="Profile views" /> </p>
+<div>
+<img title="Github Yearly commits" alt="Github Yearly" align="right" src="https://badges.pufler.dev/commits/yearly/MiralhaProgrammer?style=flat&logoColor=957DAD&color=orange&logo=github" />
+<img title="Github Yearly commits" alt="Github Mothly" align="right" src="https://badges.pufler.dev/commits/monthly/MiralhaProgrammer?style=flat&color=957DAD" />
+<img title="Repos" alt="Repos" align="right" src="https://badges.pufler.dev/repos/MiralhaProgrammer?style=flat&color=orange" />
+</div>
+
 ##
 
 <div align="center">
