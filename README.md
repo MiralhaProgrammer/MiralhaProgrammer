@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/MiralhaProgrammer">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MiralhaProgrammer&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MiralhaProgrammer&count_private=false&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiralhaProgrammer&theme=material-palenight&hide_border=false&&layout=compact"/>
   </a>
 </div>
